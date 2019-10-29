@@ -1,1 +1,2 @@
-# Diabetes_Tracer_app
+# Diabetes-Tracer-Android-App
+DiabetesTracer Android Mobile Application App
